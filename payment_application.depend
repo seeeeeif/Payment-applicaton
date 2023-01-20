@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1671490493 source:f:\payment\payment app codeblocks\paymen_app_codeblocks new\payment_application\main.c
+	<stdlib.h>
+	<stdio.h>
+	"../payment_application/app/app.h"
+
+1671483011 f:\payment\payment app codeblocks\paymen_app_codeblocks new\payment_application\app\app.h
+	"../server/server.h"
+	"../card/card.h"
+	"../terminal/terminal.h"
+
+1671481989 f:\payment\payment app codeblocks\paymen_app_codeblocks new\payment_application\server\server.h
+	"../terminal/terminal.h"
+	"../card/card.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1671483640 f:\payment\payment app codeblocks\paymen_app_codeblocks new\payment_application\terminal\terminal.h
+	"../card/card.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1671481989 f:\payment\payment app codeblocks\paymen_app_codeblocks new\payment_application\card\card.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1671484004 source:f:\payment\payment app codeblocks\paymen_app_codeblocks new\payment_application\app\app.c
+	"app.h"
+
+1671487880 source:f:\payment\payment app codeblocks\paymen_app_codeblocks new\payment_application\card\card.c
+	"card.h"
+
+1671483997 source:f:\payment\payment app codeblocks\paymen_app_codeblocks new\payment_application\server\server.c
+	"server.h"
+
+1671488161 source:f:\payment\payment app codeblocks\paymen_app_codeblocks new\payment_application\terminal\terminal.c
+	"terminal.h"
+
+1671645055 source:f:\payment\payment app codeblocks\modified\paymen_app_codeblocks new\payment_application\app\app.c
+	"app.h"
+
+1671483011 f:\payment\payment app codeblocks\modified\paymen_app_codeblocks new\payment_application\app\app.h
+	"../server/server.h"
+	"../card/card.h"
+	"../terminal/terminal.h"
+
+1671592639 f:\payment\payment app codeblocks\modified\paymen_app_codeblocks new\payment_application\server\server.h
+	"../terminal/terminal.h"
+	"../card/card.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1671483640 f:\payment\payment app codeblocks\modified\paymen_app_codeblocks new\payment_application\terminal\terminal.h
+	"../card/card.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1671481989 f:\payment\payment app codeblocks\modified\paymen_app_codeblocks new\payment_application\card\card.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1671592598 source:f:\payment\payment app codeblocks\modified\paymen_app_codeblocks new\payment_application\card\card.c
+	"card.h"
+
+1671646650 source:f:\payment\payment app codeblocks\modified\paymen_app_codeblocks new\payment_application\main.c
+	<stdlib.h>
+	<stdio.h>
+	"../payment_application/app/app.h"
+
+1671645056 source:f:\payment\payment app codeblocks\modified\paymen_app_codeblocks new\payment_application\server\server.c
+	"server.h"
+
+1671592598 source:f:\payment\payment app codeblocks\modified\paymen_app_codeblocks new\payment_application\terminal\terminal.c
+	"terminal.h"
+
+1674080370 source:f:\payegfwd\project payment application egfwd-main\project egfwd-main\payment_application\app\app.c
+	"app.h"
+
+1673916845 f:\payegfwd\project payment application egfwd-main\project egfwd-main\payment_application\app\app.h
+	"../server/server.h"
+	"../card/card.h"
+	"../terminal/terminal.h"
+
+1673726478 f:\payegfwd\project payment application egfwd-main\project egfwd-main\payment_application\server\server.h
+	"../terminal/terminal.h"
+	"../card/card.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1673725366 f:\payegfwd\project payment application egfwd-main\project egfwd-main\payment_application\terminal\terminal.h
+	"../card/card.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1674084570 f:\payegfwd\project payment application egfwd-main\project egfwd-main\payment_application\card\card.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1674086643 source:f:\payegfwd\project payment application egfwd-main\project egfwd-main\payment_application\card\card.c
+	"card.h"
+
+1673916845 source:f:\payegfwd\project payment application egfwd-main\project egfwd-main\payment_application\main.c
+	<stdlib.h>
+	<stdio.h>
+	"../payment_application/app/app.h"
+
+1674086419 source:f:\payegfwd\project payment application egfwd-main\project egfwd-main\payment_application\server\server.c
+	"server.h"
+
+1674081846 source:f:\payegfwd\project payment application egfwd-main\project egfwd-main\payment_application\terminal\terminal.c
+	"terminal.h"
+
